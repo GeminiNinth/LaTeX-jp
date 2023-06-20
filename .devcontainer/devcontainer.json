@@ -14,7 +14,8 @@
 				"oderwat.indent-rainbow",
 				"donjayamanne.githistory",
 				"GitHub.copilot",
-				"sgryjp.japanese-word-handler"
+				"sgryjp.japanese-word-handler",
+				"MichaelCurrin.auto-commit-msg"
 			]
 		}
 	},
