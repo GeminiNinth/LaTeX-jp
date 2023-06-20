@@ -8,7 +8,13 @@
 		"vscode": {
 			"extensions": [
 				"James-Yu.latex-workshop",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"intellsmi.comment-translate",
+				"intellsmi.deepl-translate",
+				"oderwat.indent-rainbow",
+				"donjayamanne.githistory",
+				"GitHub.copilot",
+				"sgryjp.japanese-word-handler"
 			]
 		}
 	},
