@@ -81,7 +81,7 @@
         "*.run.xml",
     ],
     "latex-workshop.latexindent.path": "sh",
-    "latex-workshop.latex.outDir": "output",
+    // "latex-workshop.latex.outDir": "output",
     "latex-workshop.latexindent.args": [
         "/workdir/bin/linter.sh",
     ],
